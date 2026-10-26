@@ -1,0 +1,14 @@
+{
+  "name": "Gather & Grain Reservations",
+  "short_name": "Gather & Grain",
+  "description": "Find a restaurant and reserve a table.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f5ef",
+  "theme_color": "#173d35",
+  "icons": [
+    {"src": "/icons/icon-192.svg", "sizes": "192x192", "type": "image/svg+xml", "purpose": "any"},
+    {"src": "/icons/icon-512.svg", "sizes": "512x512", "type": "image/svg+xml", "purpose": "any"}
+  ]
+}
